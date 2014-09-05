@@ -1,0 +1,20 @@
+data0002_Klog è una piccola caduta X
+data0003_Klog log un po' rumoroso
+data0004_Klog è fermo
+data0005_Klog è una caduta
+data0006_Klog è una caduta con dei saltelli
+data0007_Klog è una caduta sul divano del JOL
+data0008_Klog è laciando in alto il dispositivo
+data0008_Klog salti no fall mouovendolo velocemente in mano
+
+
+
+TODO
+
+1) zene cadute svm model come adesso
+
+2) svm + altimetro |A|+|H|
+
+3) run detection wal det
+
+4) quanto pesa computazionalmente il filtro
